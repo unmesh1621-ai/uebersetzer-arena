@@ -1,0 +1,14 @@
+arch: decoder-only
+adaptation: LoRA fine-tuning
+model_name: google/gemma-3-1b-it
+max_len: 256
+lr: 2.0e-4
+epochs: 1
+batch_size: 2
+grad_accum: 16
+warmup_ratio: 0.03
+lora:
+  r: 16
+  alpha: 32
+  dropout: 0.05
+  targets: [q_proj, k_proj, v_proj, o_proj, gate_proj, up_proj, down_proj]

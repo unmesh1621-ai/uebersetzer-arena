@@ -1,0 +1,16 @@
+﻿queue started 2026-10-29T08:13:07
+train_transformer SKIPPED
+train_mt5 SKIPPED
+train_llama_lora exit=0 minutes=120.4
+train_gemma_lora exit=0 minutes=165
+tr_transformer exit=0 minutes=1.2
+tr_mt5 exit=1 minutes=0.2
+tr_llama_prompt exit=0 minutes=2.7
+tr_llama_lora exit=0 minutes=2.3
+tr_gemma_prompt exit=0 minutes=4.4
+tr_gemma_lora exit=0 minutes=4.2
+tr_transformer_b4 exit=0 minutes=10.9
+tr_mt5_b4 exit=1 minutes=0.2
+temperature_sweep exit=1 minutes=30
+evaluate exit=1 minutes=0.1
+queue finished 2026-10-29T13:54:40

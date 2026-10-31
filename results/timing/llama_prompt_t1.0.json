@@ -1,0 +1,15 @@
+{
+  "system": "llama_prompt",
+  "input": "C:\\Users\\harshavardhan\\Desktop\\Sem VII\\FGAI\\IA3\\data\\flores.en",
+  "n": 300,
+  "temperature": 1.0,
+  "beam": 1,
+  "batch_size": 16,
+  "max_new_tokens": 256,
+  "total_s": 67.408,
+  "ms_per_sent": 224.69,
+  "gen_tokens": 14736,
+  "tok_per_s": 218.6,
+  "peak_vram_mb": 3069,
+  "postproc_changed": 16
+}

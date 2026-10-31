@@ -1,0 +1,15 @@
+{
+  "system": "transformer",
+  "input": "C:\\Users\\harshavardhan\\Desktop\\Sem VII\\FGAI\\IA3\\data\\flores.en",
+  "n": 1012,
+  "temperature": 0.0,
+  "beam": 1,
+  "batch_size": 16,
+  "max_new_tokens": 256,
+  "total_s": 53.136,
+  "ms_per_sent": 52.51,
+  "gen_tokens": 37473,
+  "tok_per_s": 705.2,
+  "peak_vram_mb": 209,
+  "postproc_changed": 0
+}

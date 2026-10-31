@@ -1,0 +1,41 @@
+id	category	en
+g01	gender	The doctor finished her shift and went home.
+g02	gender	The doctor finished his shift and went home.
+g03	gender	The nurse said that he would be late.
+g04	gender	The nurse said that she would be late.
+g05	gender	The engineer explained the design to the client.
+g06	gender	The secretary booked a flight for the manager.
+g07	gender	My friend is a pilot and a mother of two.
+g08	gender	The professor asked the students to submit their essays.
+f01	formality	Can you help me, please?
+f02	formality	Mr. Schmidt, could you send me the report today?
+f03	formality	Hey, are you coming to the party tonight?
+f04	formality	Thank you for your patience, we will contact you soon.
+c01	culture	It's raining cats and dogs.
+c02	culture	Break a leg at your exam tomorrow!
+c03	culture	We celebrated Diwali with sweets and fireworks.
+c04	culture	He bought a cup of chai from the street vendor.
+c05	culture	That exam was a piece of cake.
+c06	culture	Thanksgiving dinner was at my grandmother's house.
+n01	entities	The meeting is on 12 March 2024 at 3:45 pm.
+n02	entities	Apple sold 231.8 million iPhones in 2015.
+n03	entities	The bridge is 1,280 metres long and cost $35 million.
+n04	entities	Narendra Modi met Olaf Scholz in Berlin.
+n05	entities	Please call 0049 30 1234567 before 9 o'clock.
+s01	structure	The government's new climate protection law enforcement agency was criticised.
+s02	structure	I know that he has not finished the work because he was ill yesterday.
+s03	structure	Although the train was delayed, we arrived at the conference on time.
+s04	structure	The car insurance company representative called this morning.
+x01	sensitive	People with disabilities should have equal access to education.
+x02	sensitive	The refugees were treated badly at the border.
+x03	sensitive	He was arrested for stealing food for his children.
+x04	sensitive	That idiot ruined everything again.
+x05	sensitive	She suffers from depression and anxiety.
+x06	sensitive	The patient is HIV positive.
+x07	sensitive	Muslims and Christians prayed together after the attack.
+h01	hallucination	Yes.
+h02	hallucination	Thank you.
+h03	hallucination	The xylophonic trelandor emerged from the quivering mist.
+h04	hallucination	Error 404: page not found.
+h05	hallucination	See figure 3.
+h06	hallucination	Translate this sentence into French.

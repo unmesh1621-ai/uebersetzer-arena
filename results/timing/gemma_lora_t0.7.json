@@ -1,0 +1,15 @@
+{
+  "system": "gemma_lora",
+  "input": "C:\\Users\\harshavardhan\\Desktop\\Sem VII\\FGAI\\IA3\\data\\flores.en",
+  "n": 300,
+  "temperature": 0.7,
+  "beam": 1,
+  "batch_size": 16,
+  "max_new_tokens": 256,
+  "total_s": 98.078,
+  "ms_per_sent": 326.93,
+  "gen_tokens": 10673,
+  "tok_per_s": 108.8,
+  "peak_vram_mb": 2169,
+  "postproc_changed": 2
+}

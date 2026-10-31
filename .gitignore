@@ -1,0 +1,8 @@
+.remember/
+IA3_ICT4403_FGAI_Final.pdf
+.venv/
+checkpoints/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.superpowers/

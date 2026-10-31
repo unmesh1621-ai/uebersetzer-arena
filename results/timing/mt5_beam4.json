@@ -1,0 +1,15 @@
+{
+  "system": "mt5",
+  "input": "C:\\Users\\harshavardhan\\Desktop\\Sem VII\\FGAI\\IA3\\data\\flores.en",
+  "n": 1012,
+  "temperature": 0.0,
+  "beam": 4,
+  "batch_size": 16,
+  "max_new_tokens": 256,
+  "total_s": 73.289,
+  "ms_per_sent": 72.42,
+  "gen_tokens": 35947,
+  "tok_per_s": 490.5,
+  "peak_vram_mb": 986,
+  "postproc_changed": 0
+}

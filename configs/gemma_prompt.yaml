@@ -1,0 +1,4 @@
+arch: decoder-only
+adaptation: 5-shot prompting
+model_name: google/gemma-3-1b-it
+shots: 5

@@ -1,0 +1,1 @@
+['fertility.png', 'loss_curves.png', 'quality_vs_latency.png', 'quality_vs_params.png', 'scores.png', 'temperature.png']

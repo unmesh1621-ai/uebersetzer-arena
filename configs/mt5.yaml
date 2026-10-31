@@ -1,0 +1,10 @@
+arch: encoder-decoder
+adaptation: full fine-tuning
+model_name: google/mt5-small
+prefix: "translate English to German: "
+max_len: 128
+lr: 1.0e-3
+optim: adafactor
+epochs: 3
+batch_size: 4
+grad_accum: 8

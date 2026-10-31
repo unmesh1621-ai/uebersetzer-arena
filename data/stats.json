@@ -1,0 +1,55 @@
+{
+  "source": {
+    "train_pool": "wmt/wmt14 de-en train",
+    "test": "openlanguagedata/flores_plus devtest"
+  },
+  "candidates_sampled": 40000,
+  "dropped": {
+    "empty": 0,
+    "duplicate": 133,
+    "too_long": 53,
+    "ratio": 680,
+    "langid": 1316,
+    "leak": 0
+  },
+  "counts": {
+    "train": 30000,
+    "val": 2000,
+    "test": 1000,
+    "flores": 1012
+  },
+  "lengths": {
+    "train.en": {
+      "mean_words": 22.99,
+      "p95_words": 48
+    },
+    "train.de": {
+      "mean_words": 21.42,
+      "p95_words": 45
+    },
+    "val.en": {
+      "mean_words": 22.57,
+      "p95_words": 46
+    },
+    "val.de": {
+      "mean_words": 21.29,
+      "p95_words": 44
+    },
+    "test.en": {
+      "mean_words": 22.48,
+      "p95_words": 45
+    },
+    "test.de": {
+      "mean_words": 21.02,
+      "p95_words": 43
+    },
+    "flores.en": {
+      "mean_words": 21.64,
+      "p95_words": 34
+    },
+    "flores.de": {
+      "mean_words": 21.5,
+      "p95_words": 35
+    }
+  }
+}

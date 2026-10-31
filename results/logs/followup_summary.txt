@@ -1,0 +1,9 @@
+﻿followup waiting 2026-10-29T13:54:40
+train_mt5_resume exit=0 minutes=73.9
+tr_mt5 exit=0 minutes=1.6
+tr_mt5_b4 exit=0 minutes=1.5
+temperature_sweep_mt5 exit=0 minutes=2.4
+evaluate exit=0 minutes=0.3
+rai_probe exit=0 minutes=1.3
+plots exit=0 minutes=0.1
+followup finished 2026-10-29T15:15:44

@@ -1,0 +1,16 @@
+arch: encoder-decoder
+adaptation: trained from scratch
+vocab_size: 16000
+d_model: 256
+nhead: 4
+num_layers: 4
+dim_ff: 1024
+dropout: 0.3
+max_len: 128
+batch_tokens: 4096
+lr_factor: 1.0
+warmup: 4000
+betas: [0.9, 0.98]
+label_smoothing: 0.1
+epochs: 30
+patience: 5

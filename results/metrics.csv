@@ -1,0 +1,7 @@
+row,arch,adaptation,bleu,chrf,bleu_beam4,chrf_beam4,params_total,params_trainable,train_seconds,infer_total_s,ms_per_sent,tok_per_s,peak_vram_mb,postproc_pct
+transformer,encoder-decoder,trained from scratch,6.28,33.14,6.26,32.01,11469824,11469824,3632.1,53.136,52.51,705.2,209,0.0
+mt5,encoder-decoder,full fine-tuning,13.38,42.33,15.17,44.72,300176768,300176768,5898.7,71.819,70.97,506.8,692,0.0
+llama_prompt,decoder-only,5-shot prompting,21.76,52.66,,,1235814400,0,0.0,142.765,141.07,301.3,3067,0.8
+llama_lora,decoder-only,LoRA fine-tuning,22.18,51.3,,,1247086592,11272192,7112.1,112.057,110.73,355.5,2612,0.2
+gemma_prompt,decoder-only,5-shot prompting,25.55,55.97,,,999885952,0,0.0,240.676,237.82,143.8,2528,0.2
+gemma_lora,decoder-only,LoRA fine-tuning,24.54,53.22,,,1012931712,13045760,9816.6,248.492,245.55,135.1,2142,0.4
