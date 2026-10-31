@@ -31,10 +31,8 @@ def add_hyperlink(paragraph, url, text):
     run = OxmlElement("w:r")
     rpr = OxmlElement("w:rPr")
     color = OxmlElement("w:color")
-    color.set(qn("w:val"), "1F5FBF")
-    underline = OxmlElement("w:u")
-    underline.set(qn("w:val"), "single")
-    rpr.extend([color, underline])
+    color.set(qn("w:val"), "000000")
+    rpr.append(color)
     run.append(rpr)
     t = OxmlElement("w:t")
     t.text = text
